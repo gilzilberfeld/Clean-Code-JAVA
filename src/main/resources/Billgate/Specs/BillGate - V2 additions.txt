@@ -1,0 +1,7 @@
+It seems our system did not take into account the discount rules. 
+The important ones are:
+    - Items with a description that starts with "*" are gratis (free)
+    - Items in EUR are 10% off
+    - Items in CHF are 15% more  
+
+Add and test the new rule implementation.
