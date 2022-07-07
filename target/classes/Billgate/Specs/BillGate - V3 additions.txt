@@ -1,0 +1,9 @@
+A new ruling requires that outstanding snow traffic will be logged:
+
+- Over 10 tons of 1 kind
+- Over 30 tons in 1 order
+
+The current required log is just a running file - but this will likely change
+Rules will most probably evolve...
+
+Refactor to Patterns and add new functionality.

@@ -1,0 +1,2 @@
+sleet::10::3.12::EUR
+drizzle::14::4.25::EUR
